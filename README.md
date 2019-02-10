@@ -1,4 +1,4 @@
-# MY PROGRAMMING PORTFOLIO WEBPAGE
+# MY PROGRAMMING PORTFOLIO LANDING PAGE
 The webpage is a class project that is my programming portfolio landing page containing my name,image and a list of projects i have worked on so far with links to their github pages on my github account where i have hosted them , 9th february 2019
 #### By **MARGARET WAIRIMU KURIA**
 ## Description
