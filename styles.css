@@ -2,11 +2,14 @@
     color: blue;
 }
 html{
-  font: 90% verdana,sans-serif;
+  font: 100% verdana,sans-serif;
 }
 h1 {
   color: #0000ff;
   text-align: center;
+}
+img {
+  float: left;
 }
 h2 {
   color: #0000ff;
@@ -36,7 +39,7 @@ ul {
     background-color: pink;
   }
   .column {
-    width: 300px;
+    width: 350px;
     float: left;
     padding: 35px;
   }
