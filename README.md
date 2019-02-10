@@ -1,5 +1,5 @@
 # MY PROGRAMMING PORTFOLIO WEBPAGE
-#### The webpage is a class project that is my programming portfolio landing page containing my name,image and a list of projects i have worked on so far with links to their github pages on my github account where i have hosted them }, {Date of current version
+The webpage is a class project that is my programming portfolio landing page containing my name,image and a list of projects i have worked on so far with links to their github pages on my github account where i have hosted them , 9th february 2019
 #### By **MARGARET WAIRIMU KURIA**
 ## Description
 This webpage project acts as my programming portfolio hereby listing the projects and links to the github pages of the projects i have worked on so far.the sole purpose of this project or webpage creation is to test my learnt skills on use of html tags,skills on custom made stylesheets that uses cascading,box model and floats,skills on indentation and spacing conventions of HTML and CSS.also tests on ability to make git commits regularly with clear messages that finish the phrase "it will..".the usage of this webpage is to outine and allow access of projects on github pages by having links that redirect webpage users to the github pages.
