@@ -19,6 +19,12 @@ p {
 ul {
   line-height: 40px;
 }
+.test-box {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
+}
 @media screen and (min-width: 480px) and (max-width: 767px) {
     body {
         background-color: black;
