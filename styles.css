@@ -2,14 +2,14 @@
     color: blue;
 }
 html{
-  font: 75% verdana,sans-serif;
+  font: 120% verdana,sans-serif;
 }
 h1 {
   color: #0000ff;
   text-align: center;
 }
 h2 {
-  color: green;
+  color: #0000ff;
   font-style: italic;
   text-align: center;
 }
@@ -27,11 +27,11 @@ ul {
 }
 @media screen and (min-width: 768px) {
   body {
-    background-color: yellowgreen;
+    background-color: pink;
   }
   .column {
-    width: 220px;
+    width: 300px;
     float: left;
-    padding: 15px;
+    padding: 35px;
   }
 }
