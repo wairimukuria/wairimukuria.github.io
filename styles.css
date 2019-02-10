@@ -2,7 +2,7 @@
     color: blue;
 }
 html{
-  font: 100% verdana,sans-serif;
+  font: 90% verdana,sans-serif;
 }
 h1 {
   color: #0000ff;
@@ -14,7 +14,7 @@ h2 {
   text-align: center;
 }
 p {
-  font-family: sans-serif;
+  font-family: serif;
 }
 ul {
   line-height: 40px;
