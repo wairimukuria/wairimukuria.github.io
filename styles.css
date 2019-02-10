@@ -1,3 +1,38 @@
 .name{
     color: blue;
 }
+html{
+  font: 75% verdana,sans-serif;
+}
+h1 {
+  color: #0000ff;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: yellowgreen;
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
+}
+  
